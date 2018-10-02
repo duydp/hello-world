@@ -1,5 +1,5 @@
 # hello-world
-Hey guy
+Hey guy!
 Nice to meet you GitHub. As you know once our green planet will be better when we are together working with each other everyday.
 The first time I come here, althought before time I have ever known about huge developers community. Oh yes exactly It's our GitHub.
 Now I'm working with Go language,and studying Python on DataQuest,Math on KhanAcademy Everything the same interesting, my nearest target
