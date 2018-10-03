@@ -6,3 +6,5 @@ Now I'm working with Go language,and studying Python on DataQuest,Math on KhanAc
 is fluency about Maths,Python and 3 agorithms Navie Bayes Classifier,K-nearest neighbors,Linear regression and more about data science.
 I hope that the GitHub will be best place for me to discover big potential. Thanks GitHub and owners for us about one good environment.
 And Good Luck for every developers and your relatives beside you.
+
+https://gist.github.com/duydp/e5f4c9a0b3b9f767d95a24e846a2cd85
